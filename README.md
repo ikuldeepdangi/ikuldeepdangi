@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kuldeep0912
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Competitive programming and Web Devlopment .
+- 🌱 I’m currently learning Competitive programming and Web Development .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ->  kuldeepdangi0912@gmail.com
 
