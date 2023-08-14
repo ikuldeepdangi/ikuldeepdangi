@@ -1,4 +1,4 @@
-<h1 ">Hi 👋, I'm Kuldeep Dangi</h1>
+
 <h1 align="center" style="text-align: center; font-family: Arial, sans-serif; color: #3498db;">Greetings! 🌟 I'm Kuldeep Dangi</h1>
 
 <h3 align="center">Indian Software Engineer Shaping Tomorrow's Tech .</h3>
