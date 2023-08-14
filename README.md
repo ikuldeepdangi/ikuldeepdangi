@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Dangi</h1>
-<div style="background-color: #f2f2f2; padding: 20px; text-align: center;">
-  <h1 style="color: #336699; font-family: Arial, sans-serif;">Welcome! 🌟</h1>
-  <p style="font-size: 18px; color: #666;">Allow me to introduce myself - I'm Kuldeep Dangi</p>
-</div>
 
 <h3 align="center">Indian Software Engineer Shaping Tomorrow's Tech .</h3>
 
