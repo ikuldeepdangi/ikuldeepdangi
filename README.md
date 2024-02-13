@@ -5,7 +5,7 @@
 <h3 align="center">Indian Software Engineer Shaping Tomorrow's Tech .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep0912&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep0912" /> </p>
 - 📫 How to reach me **Kuldeepdangi0912@gmail.com**
-- 📄 Know about my experiences [ikuldeepdangi.github.io]
+- 📄 Know about my experiences [ikuldeepdangi.github.io](https://ikuldeepdangi.github.io)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kuldeep-dangi-16a195208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kuldeep-dangi-16a195208" height="30" width="40" /></a>
